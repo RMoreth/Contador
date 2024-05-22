@@ -6,7 +6,7 @@ os.system('cls')
 
 # conta a partir do numero informado ate 0
 while contador >= 0:
-    print(f"contagem regressiva: {contador}...")
+    print(f"Contagem Regressiva: {contador}...")
     contador -= 1
     sleep(1)
     os.system('cls')
